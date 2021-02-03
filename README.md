@@ -1,7 +1,11 @@
-# dotfiles
+# Dotfiles
+These are my system configurations.
 
-## Install
-Just run this command and reload your session
+## Prerequisites
+Install zsh on your system
+
+## Install script
+Execute this command and reload your session
 ```bash
 wget -qO- https://raw.githubusercontent.com/forerosantiago/dotfiles/main/install.sh | bash
 
