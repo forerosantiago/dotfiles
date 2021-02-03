@@ -100,3 +100,5 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias config='/usr/bin/git --git-dir=/home/santiago/.cfg/ --work-tree=/home/santiago'
+alias ls='ls -a'
+alias ..='cd ..'

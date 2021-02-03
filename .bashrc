@@ -116,4 +116,5 @@ if ! shopt -oq posix; then
   fi
 fi
 alias config='/usr/bin/git --git-dir=/home/santiago/.cfg/ --work-tree=/home/santiago'
-alias config='/usr/bin/git --git-dir=/home/santiago/.cfg/ --work-tree=/home/santiago'
+alias ls='ls -a'
+alias ..='cd ..'
