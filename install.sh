@@ -1,4 +1,6 @@
-alias config="/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME"
+echo 'alias config="/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME"' > ~/.zshrc
+.~/.zshrc
+
 rm -rf .cfg
 echo ".cfg" >> .gitignore
 git clone --bare https://github.com/forerosantiago/dotfiles $HOME/.cfg
