@@ -1,5 +1,5 @@
 echo 'alias config="/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME"' > ~/.zshrc
-.~/.zshrc
+. ~/.zshrc
 
 rm -rf .cfg
 echo ".cfg" >> .gitignore
