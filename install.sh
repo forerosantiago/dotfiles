@@ -1,4 +1,4 @@
-echo 'alias config="/usr/bin/git --git-dir=$HOME/.dotfiles.git/ --work-tree=$HOME"' >> $HOME/.zshrc
+alias config="/usr/bin/git --git-dir=$HOME/.dotfiles.git/ --work-tree=$HOME"
 source ~/.zshrc
 rm -rf .cfg
 echo ".cfg" >> .gitignore
