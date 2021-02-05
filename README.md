@@ -2,7 +2,7 @@
 These are my system configurations.
 
 ## Prerequisites
-Install zsh on your system
+Install zsh (and [Oh My Zsh](https://ohmyz.sh/)) on your system
 
 ## Install script
 Execute this command and reload your session
