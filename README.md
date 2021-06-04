@@ -5,7 +5,7 @@ These are my Arch system configurations.
 This configuration files require the following programs to work:
 - [Zsh](https://www.zsh.org/)
 - [Oh My Zsh](https://ohmyz.sh/)
-- [Alacritty](https://github.com/alacritty/alacritty
+- [Alacritty](https://github.com/alacritty/alacritty)
 - [i3-gaps](https://github.com/Airblader/i3/)
 - [Neofetch](https://github.com/dylanaraps/neofetch/)
 - [Neovim](https://neovim.io/)
