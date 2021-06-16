@@ -10,6 +10,7 @@ This configuration files require the following programs to work:
 - [Neofetch](https://github.com/dylanaraps/neofetch/)
 - [Neovim](https://neovim.io/)
 - [Polybar](https://polybar.github.io/)
+- [Feh](https://feh.finalrewind.org/)
 
 ## Install script
 Execute this command and reload your session
