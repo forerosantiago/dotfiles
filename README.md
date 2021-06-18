@@ -11,6 +11,8 @@ This configuration files require the following programs to work:
 - [Neovim](https://neovim.io/)
 - [Polybar](https://polybar.github.io/)
 - [Feh](https://feh.finalrewind.org/)
+- [Font Awesome](https://fontawesome.com/)
+- [Jet Brains Mono](https://www.jetbrains.com/lp/mono/)
 
 ## Install script
 Execute this command and reload your session
