@@ -15,6 +15,7 @@ Github: https://github.com/forerosantiago/dotfiles/
 "
 
 read -p "$* This script will overwrite your existing dotfiles, please back up first, then run this script, are you sure you want to continue? [Y/n] " yn
+echo
         if [[ $yn == n* ]]; then
         	echo "Installation aborted."
 		exit 0
