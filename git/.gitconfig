@@ -1,0 +1,5 @@
+[user]
+	email = santiago@forero.ga
+	name = Santiago Forero
+[core]
+	editor = nvim
