@@ -1,4 +1,4 @@
-programs=("git" "zsh" "tmux")
+programs=("git" "zsh" "tmux" "nvim")
 
 echo "
 ______                       
