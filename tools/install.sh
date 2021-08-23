@@ -35,6 +35,7 @@ do
 
 
 	if [[ $yn == y* ]]; then
+		stow -D $i
   		stow $i
 	fi
 
