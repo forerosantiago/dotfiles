@@ -21,10 +21,10 @@ read -p "$* This script will delete all your previous dotfiles, please back up f
         fi
 
 
-cd 
+cd ~
 rm -rf dotfiles
 git clone https://github.com/forerosantiago/dotfiles/
-
+cd dotfiles
 
 echo
 echo "----------------------------------------------------------------------"
