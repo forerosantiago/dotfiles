@@ -1,5 +1,14 @@
 # Dotfiles
-My linux dotfiles
+My linux configuration files
+
+## Dependencies
+- neovim
+- git
+- zsh
+- Oh My Zsh
+- i3-gaps
+- polybar
+- tmux
 
 ## Installation
 
@@ -9,7 +18,8 @@ git clone https://github.com/forerosantiago/dotfiles.git
 cd dotfiles/
 ```
 
-Just run [this](https://github.com/forerosantiago/dotfiles/blob/main/tools/install.sh) script
+Create the symbolic links using stow.
 ```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/forerosantiago/dotfiles/main/tools/install.sh)"
-```
+stow vim git```
+
+
