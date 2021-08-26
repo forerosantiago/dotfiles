@@ -9,6 +9,7 @@ My linux configuration files
 - i3-gaps
 - polybar
 - tmux
+- alacritty
 
 ## Installation
 
