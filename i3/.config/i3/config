@@ -166,7 +166,7 @@ bindsym $mod+r mode "resize"
 #}
 
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-exec_always feh --bg-scale /home/forero/dotfiles/background.jpg
+exec_always feh --bg-scale $HOME/dotfiles/background.jpg
 
 exec firefox
 
@@ -176,3 +176,6 @@ bindsym $mod + shift + x exec i3lock
 for_window [class=".*"] border pixel 2
 gaps inner 10
 gaps outer 5
+
+
+bindsym Print exec xfce4-screenshooter
